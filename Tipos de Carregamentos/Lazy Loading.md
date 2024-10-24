@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: quarta-feira, outubro 23º 2024, 11:05:24 pm
-date modified: quarta-feira, outubro 23º 2024, 11:11:14 pm
+date modified: quinta-feira, outubro 24º 2024, 12:45:26 am
 ---
 PS: O EF Core não implementa de forma nativa e direta o lazy loading, para isso é necessário instalar um pacote para que isso seja possível, tem também o adendo que esse pacote por debaixo dos panos usa proxies e o castle proxies para ser mais exato.
 

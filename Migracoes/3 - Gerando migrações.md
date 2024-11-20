@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: sábado, novembro 16º 2024, 5:22:40 pm
-date modified: terça-feira, novembro 19º 2024, 10:25:09 pm
+date modified: quarta-feira, novembro 20º 2024, 7:22:01 pm
 ---
 Para gerar uma migração no EF Core, você pode fazer o seguinte:
 

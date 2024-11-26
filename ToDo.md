@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: terça-feira, outubro 22º 2024, 3:10:54 pm
-date modified: sábado, novembro 16º 2024, 5:05:16 pm
+date modified: quarta-feira, novembro 20º 2024, 7:54:04 pm
 ---
 - Instalar uma ILoggerFactory dentro do AppDbContext para logar todos os comandos no console do desenvolvedor pelo menos no ambiente de desenvolvimento de DEV e STG.
 - Ver a problematica do DbContext e AsNoTracking e algumas coisas que guardam o tracking da entidade em memoria.
@@ -20,3 +20,4 @@ date modified: sábado, novembro 16º 2024, 5:05:16 pm
 - Usar a ferramenta diagnostic tools e de memory usage para comparar diferentes cenários de uso do ef core.
 - Configurar por padrão no ef core para ele usar o NoTrackingWithIdentityResolution.
 - Ter uma operação de console falando quanto cada QUERY custou em MB no sistema.
+- Criar uma aplicação multi tenant. Usando as tres diferentes tipos de estrategia.
